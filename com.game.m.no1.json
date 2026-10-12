@@ -1,5 +1,3 @@
 {
-  "privacy_domain": "https://api.mangee.io/compliance/market/banner-compliance-check?bundle=",
-  "policy_domain": "https://raw.githubusercontent.com/jamesgreenmango/configs/master/all-in-one-363/m.json",
-  "term_domain": "https://gitlab.com/config5557/config-app/-/raw/main/m.json"
+  "privacy_domain": "https://api.mangee.io/compliance/market/banner-compliance-check?bundle="
 }
